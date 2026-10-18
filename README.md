@@ -1,2 +1,2 @@
-# sifreli-raylar--antik-hazine-expresi
+# sifreli-raylar-antik-hazine-expresi
 Bölünebilme Kuralları Simülasyonu
